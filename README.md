@@ -25,5 +25,6 @@ https://docs.mulesoft.com/mule-user-guide/v/3.7/poll-reference
 ObjectStore
 http://mulesoft.github.io/objectstore-connector/1.3.3/apidocs/mule/objectstore-config.html#retrieve-store
 
-###### Updated
-12/11/2015 by dejim.juang@mulesoft.com
+```
+Updated: 12/11/2015 by dejim.juang@mulesoft.com
+```
