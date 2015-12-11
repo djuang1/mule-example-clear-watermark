@@ -4,6 +4,8 @@ This Mule project is an example of how to clear the watermark from the object st
 # Setup
   1. Run the 'records.sql' script against a MySQL database
   2. Modify the 'MySQL_Configuration' to point to your MySQL database with the newly created table.
+  3. Run the project
+  4. Navigate to http://localhost:8081/clearwatermark
 
 # Versions
 Project was built with the following versions.
